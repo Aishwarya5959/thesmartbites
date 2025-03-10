@@ -36,6 +36,8 @@ Setup
 
 Clone the Repository:
 git clone https://github.com/Aishwarya5959/thesmartbites.git
+
+
 cd project
 
 Add your API_key in app.py
