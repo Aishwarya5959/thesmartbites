@@ -1,6 +1,6 @@
 **AI Meal Planner**
 
-About
+**About**
 
 AI Meal Planner is a web application that generates personalized 7-day meal plans based on user-selected dietary preferences. It leverages Google Gemini AI to create tailored meal recommendations, including detailed nutritional breakdowns for each meal. Users can also set meal reminders for better dietary management.
 
@@ -8,7 +8,7 @@ User Interface
 
 
 
-Features
+**Features**
 
 ⭐ AI-Powered Meal Planning: Generate customized 7-day meal plans based on dietary preferences.
 
@@ -20,7 +20,7 @@ Features
 
 ⭐ Expandable Meal Details: Users can view meals day-by-day using expandable sections.
 
-Technologies Used
+**Technologies Used**
 
 => Streamlit: Used to create the interactive user interface.
 
@@ -32,9 +32,9 @@ Technologies Used
 
 => PIL (Pillow): Processes images within the application.
 
-Setup
+# Setup
 
-Clone the Repository:
+**Clone the Repository:**
 git clone https://github.com/Aishwarya5959/thesmartbites.git
 
 
@@ -42,10 +42,10 @@ cd project
 
 Add your API_key in app.py
 
-Run the Application:
+**Run the Application:**
 streamlit run app.py
 
-Code Overview
+**Code Overview**
 
 The code consists of the following key functionalities:
 
@@ -57,7 +57,7 @@ The code consists of the following key functionalities:
 
 -> Background Styling: Includes custom CSS to enhance the UI with background images and stylized text.
 
-Contributors
+**Contributors**
 
 Aishwarya Reddy .K 
 
