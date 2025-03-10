@@ -1,4 +1,4 @@
-**AI Meal Planner**
+# AI Meal Planner
 
 **About**
 
@@ -57,7 +57,7 @@ The code consists of the following key functionalities:
 
 -> Background Styling: Includes custom CSS to enhance the UI with background images and stylized text.
 
-**Contributors**
+# Contributors
 
 Aishwarya Reddy .K 
 
